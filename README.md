@@ -1,6 +1,8 @@
 # omnifood
 
-Here is a set of images that showcases the final result:
+This project is part of the "Build Responsive Real-World Websites with HTML and CSS" course available on Udemy. It is a HTML and CSS based responsive website that combines many different modern design principles in order to create a fictional food delivery service.
+
+Here is a set of images that showcases the final result
 -------------------------------------
 ![image](https://github.com/dariusdinu/omnifood/assets/75120006/617db956-66f3-4d65-a665-760c1f830f8a)
 ![image](https://github.com/dariusdinu/omnifood/assets/75120006/262d98b7-2701-4329-a8e3-50fe43354b12)
