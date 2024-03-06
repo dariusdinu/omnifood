@@ -1,5 +1,7 @@
 # omnifood
 
+Here is a set of images that showcases the final result:
+-------------------------------------
 ![image](https://github.com/dariusdinu/omnifood/assets/75120006/617db956-66f3-4d65-a665-760c1f830f8a)
 ![image](https://github.com/dariusdinu/omnifood/assets/75120006/262d98b7-2701-4329-a8e3-50fe43354b12)
 ![image](https://github.com/dariusdinu/omnifood/assets/75120006/99d9263c-2575-44e0-8d6e-8f1d990d9f63)
